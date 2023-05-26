@@ -1,3 +1,3 @@
-module gobaco.com/golangpackage1
+module github.com/mkgobaco/golangpackage1
 
 go 1.20
